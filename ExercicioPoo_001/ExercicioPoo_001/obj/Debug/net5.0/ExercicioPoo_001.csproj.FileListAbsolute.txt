@@ -1,0 +1,16 @@
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\bin\Debug\net5.0\ExercicioPoo_001.exe
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\bin\Debug\net5.0\ExercicioPoo_001.deps.json
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\bin\Debug\net5.0\ExercicioPoo_001.runtimeconfig.json
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\bin\Debug\net5.0\ExercicioPoo_001.runtimeconfig.dev.json
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\bin\Debug\net5.0\ExercicioPoo_001.dll
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\bin\Debug\net5.0\ref\ExercicioPoo_001.dll
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\bin\Debug\net5.0\ExercicioPoo_001.pdb
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ExercicioPoo_001.csproj.AssemblyReference.cache
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ExercicioPoo_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ExercicioPoo_001.AssemblyInfoInputs.cache
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ExercicioPoo_001.AssemblyInfo.cs
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ExercicioPoo_001.csproj.CoreCompileInputs.cache
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ExercicioPoo_001.dll
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ref\ExercicioPoo_001.dll
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ExercicioPoo_001.pdb
+C:\Workspace\ws-csharp\estudos-orientacao-objetos-csharp\ExercicioPoo_001\ExercicioPoo_001\obj\Debug\net5.0\ExercicioPoo_001.genruntimeconfig.cache
